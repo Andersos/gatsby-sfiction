@@ -1,0 +1,2 @@
+webpackJsonp([0x920e266c027fb000],{"./node_modules/json-loader/index.js!./.cache/json/tags-detective.json":function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/jazzman"},excerpt:"Making his passage known, Jazzman wiggled through the street like rubber. With a grin bigger than a slit cheek, eyes burning the lens of the...",timeToRead:2,frontmatter:{title:"Jazzman",tags:["mystery","noir","detective"],date:"2017.01.28"}}}]}},pathContext:{tag:"detective"}}}});
+//# sourceMappingURL=path---tags-detective-01c35b3f1e279da7c545.js.map

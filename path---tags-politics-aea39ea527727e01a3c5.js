@@ -1,0 +1,2 @@
+webpackJsonp([0xb3f479d8b3449000],{"./node_modules/json-loader/index.js!./.cache/json/tags-politics.json":function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/warriors"},excerpt:'"Which one is the wisest warrior?" Shadows danced on the faces of the students gathered around the fire. "The warrior who spends the coming...',timeToRead:4,frontmatter:{title:"Warriors",tags:["fantasy","military","politics"],date:"2016.09.27"}}}]}},pathContext:{tag:"politics"}}}});
+//# sourceMappingURL=path---tags-politics-aea39ea527727e01a3c5.js.map

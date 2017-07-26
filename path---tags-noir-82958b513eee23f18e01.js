@@ -1,0 +1,2 @@
+webpackJsonp([0x115d99b583116500],{"./node_modules/json-loader/index.js!./.cache/json/tags-noir.json":function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/jazzman"},excerpt:"Making his passage known, Jazzman wiggled through the street like rubber. With a grin bigger than a slit cheek, eyes burning the lens of the...",timeToRead:2,frontmatter:{title:"Jazzman",tags:["mystery","noir","detective"],date:"2017.01.28"}}}]}},pathContext:{tag:"noir"}}}});
+//# sourceMappingURL=path---tags-noir-82958b513eee23f18e01.js.map

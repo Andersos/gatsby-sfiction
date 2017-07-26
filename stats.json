@@ -1,0 +1,172 @@
+{
+  "assetsByChunkName": {
+    "path---categories-fantasy": [
+      "path---categories-fantasy-d2d40c61ac17df4d8f2a.js",
+      "path---categories-fantasy-d2d40c61ac17df4d8f2a.js.map"
+    ],
+    "path---tags-noir": [
+      "path---tags-noir-82958b513eee23f18e01.js",
+      "path---tags-noir-82958b513eee23f18e01.js.map"
+    ],
+    "path---tags-horror": [
+      "path---tags-horror-f2061732eeaa1b3d1d0a.js",
+      "path---tags-horror-f2061732eeaa1b3d1d0a.js.map"
+    ],
+    "path---warriors": [
+      "path---warriors-b05c2e4231755ce3ef11.js",
+      "path---warriors-b05c2e4231755ce3ef11.js.map"
+    ],
+    "path---tags-philosophy": [
+      "path---tags-philosophy-21397fbfc2a8f875fc43.js",
+      "path---tags-philosophy-21397fbfc2a8f875fc43.js.map"
+    ],
+    "path---categories-speculative-fiction": [
+      "path---categories-speculative-fiction-f521d869c1d350e08a67.js",
+      "path---categories-speculative-fiction-f521d869c1d350e08a67.js.map"
+    ],
+    "path---unplugged": [
+      "path---unplugged-4c75244af4f74077072e.js",
+      "path---unplugged-4c75244af4f74077072e.js.map"
+    ],
+    "path---tags-ai": [
+      "path---tags-ai-87ea8fed94b76b47e6a4.js",
+      "path---tags-ai-87ea8fed94b76b47e6a4.js.map"
+    ],
+    "path---volume": [
+      "path---volume-9feb034fea56ce25ce4f.js",
+      "path---volume-9feb034fea56ce25ce4f.js.map"
+    ],
+    "page-component---src-pages-index-jsx": [
+      "page-component---src-pages-index-jsx-2697cd639d274cd9e701.js",
+      "page-component---src-pages-index-jsx-2697cd639d274cd9e701.js.map"
+    ],
+    "path---echoes": [
+      "path---echoes-5448ef1d5ddc62e96bcc.js",
+      "path---echoes-5448ef1d5ddc62e96bcc.js.map"
+    ],
+    "path---categories-science-fiction": [
+      "path---categories-science-fiction-9f1efb4f2b7b6bc95ad1.js",
+      "path---categories-science-fiction-9f1efb4f2b7b6bc95ad1.js.map"
+    ],
+    "path---key": [
+      "path---key-62b88a392ca734e91049.js",
+      "path---key-62b88a392ca734e91049.js.map"
+    ],
+    "path---container": [
+      "path---container-c52937020d29cdeb9cb3.js",
+      "path---container-c52937020d29cdeb9cb3.js.map"
+    ],
+    "path---template": [
+      "path---template-96619f72171f79c82337.js",
+      "path---template-96619f72171f79c82337.js.map"
+    ],
+    "page-component---src-templates-category-jsx": [
+      "page-component---src-templates-category-jsx-4385d3b73e066671521b.js",
+      "page-component---src-templates-category-jsx-4385d3b73e066671521b.js.map"
+    ],
+    "page-component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "page-component---node-modules-gatsby-plugin-offline-app-shell-js-4f0dddda43ae15168f16.js",
+      "page-component---node-modules-gatsby-plugin-offline-app-shell-js-4f0dddda43ae15168f16.js.map"
+    ],
+    "path---categories-horror": [
+      "path---categories-horror-87810d22a85c283c728f.js",
+      "path---categories-horror-87810d22a85c283c728f.js.map"
+    ],
+    "path---index": [
+      "path---index-6a393068923d82c87a6e.js",
+      "path---index-6a393068923d82c87a6e.js.map"
+    ],
+    "path---tags-fantasy": [
+      "path---tags-fantasy-5ff15cce45b267fbb15a.js",
+      "path---tags-fantasy-5ff15cce45b267fbb15a.js.map"
+    ],
+    "path---colony": [
+      "path---colony-73fe3aca1726a797d925.js",
+      "path---colony-73fe3aca1726a797d925.js.map"
+    ],
+    "path---specter": [
+      "path---specter-7e7931894c84d599eac4.js",
+      "path---specter-7e7931894c84d599eac4.js.map"
+    ],
+    "path---tags-detective": [
+      "path---tags-detective-01c35b3f1e279da7c545.js",
+      "path---tags-detective-01c35b3f1e279da7c545.js.map"
+    ],
+    "path---jazzman": [
+      "path---jazzman-f53afb8133baaafe2864.js",
+      "path---jazzman-f53afb8133baaafe2864.js.map"
+    ],
+    "commons": [
+      "commons-3d0c7f0674ffae3cebca.js",
+      "commons-3d0c7f0674ffae3cebca.js.map"
+    ],
+    "path---museum": [
+      "path---museum-9bd57a331ca40ae51c58.js",
+      "path---museum-9bd57a331ca40ae51c58.js.map"
+    ],
+    "path---tags-history": [
+      "path---tags-history-fb06d1710a7980499b1e.js",
+      "path---tags-history-fb06d1710a7980499b1e.js.map"
+    ],
+    "path---terminal": [
+      "path---terminal-3b1dd572ec137e3bab22.js",
+      "path---terminal-3b1dd572ec137e3bab22.js.map"
+    ],
+    "page-component---src-templates-tag-jsx": [
+      "page-component---src-templates-tag-jsx-388deb5f273472e54877.js",
+      "page-component---src-templates-tag-jsx-388deb5f273472e54877.js.map"
+    ],
+    "path---tags-politics": [
+      "path---tags-politics-aea39ea527727e01a3c5.js",
+      "path---tags-politics-aea39ea527727e01a3c5.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---artist": [
+      "path---artist-b76c4f2253cdbd00249e.js",
+      "path---artist-b76c4f2253cdbd00249e.js.map"
+    ],
+    "path---tags-mystery": [
+      "path---tags-mystery-e96ad4d771ed0b484626.js",
+      "path---tags-mystery-e96ad4d771ed0b484626.js.map"
+    ],
+    "path---tags-dystopian": [
+      "path---tags-dystopian-147a408c4d7ab82d7735.js",
+      "path---tags-dystopian-147a408c4d7ab82d7735.js.map"
+    ],
+    "app": [
+      "app-eca9e2c533c122dad39a.js",
+      "app-eca9e2c533c122dad39a.js.map"
+    ],
+    "path---tags-scifi": [
+      "path---tags-scifi-78ab8cb057e64fa45775.js",
+      "path---tags-scifi-78ab8cb057e64fa45775.js.map"
+    ],
+    "path---elevator": [
+      "path---elevator-6bcfc54cec838bcfed1e.js",
+      "path---elevator-6bcfc54cec838bcfed1e.js.map"
+    ],
+    "path---tags-military": [
+      "path---tags-military-f14b08e22462d0616097.js",
+      "path---tags-military-f14b08e22462d0616097.js.map"
+    ],
+    "path---categories-free-writing": [
+      "path---categories-free-writing-ae70534d6d4301ca987e.js",
+      "path---categories-free-writing-ae70534d6d4301ca987e.js.map"
+    ],
+    "path---games": [
+      "path---games-851d08effba9f1657d96.js",
+      "path---games-851d08effba9f1657d96.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-c794183db705bac87894.js",
+      "layout-component---index-c794183db705bac87894.js.map"
+    ],
+    "page-component---src-templates-post-jsx": [
+      "page-component---src-templates-post-jsx-e96fbc276dc8f3b4908c.js",
+      "page-component---src-templates-post-jsx-e96fbc276dc8f3b4908c.js.map"
+    ]
+  }
+}

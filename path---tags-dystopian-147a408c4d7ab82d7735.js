@@ -1,0 +1,2 @@
+webpackJsonp([0xc608fc16dd193800],{"./node_modules/json-loader/index.js!./.cache/json/tags-dystopian.json":function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/volume"},excerpt:"I just wanted things to go back to normal. When the holographic projectors malfunctioned, I used the bedsheets as curtains to cover up the...",timeToRead:4,frontmatter:{title:"Volume",tags:["scifi","horror","dystopian"],date:"2017.03.29"}}}]}},pathContext:{tag:"dystopian"}}}});
+//# sourceMappingURL=path---tags-dystopian-147a408c4d7ab82d7735.js.map

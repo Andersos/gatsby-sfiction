@@ -1,0 +1,2 @@
+webpackJsonp([0x33480d103c0e3600],{"./node_modules/json-loader/index.js!./.cache/json/tags-ai.json":function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/template"},excerpt:'"Rondelle, they just sent us a new template." The light from the holographic display painted his face in a pattern of colors. Two engineers...',timeToRead:17,frontmatter:{title:"Template",tags:["scifi","horror","ai"],date:"2017.02.26"}}}]}},pathContext:{tag:"ai"}}}});
+//# sourceMappingURL=path---tags-ai-87ea8fed94b76b47e6a4.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa535ea119525a800],{"./node_modules/json-loader/index.js!./.cache/json/tags-history.json":function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/artist"},excerpt:"He sits on the floor by the fire with a flat stone full of red. His eyes gleaming with hope, he prepares to create another enchantment. The...",timeToRead:12,frontmatter:{title:"Artist",tags:["fantasy","scifi","history"],date:"2016.10.18"}}}]}},pathContext:{tag:"history"}}}});
+//# sourceMappingURL=path---tags-history-fb06d1710a7980499b1e.js.map
